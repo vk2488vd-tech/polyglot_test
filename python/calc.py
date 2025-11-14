@@ -7,7 +7,7 @@ def sub(a: float, b: float) -> float:
 
 
 def mul(a: float, b: float) -> float:
-    pass  # multiplication
+    return a * b  # multiplication  ← вместо pass
 
 
 def div(a: float, b: float) -> float:
